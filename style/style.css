@@ -1,0 +1,48 @@
+header{
+    margin-left: 220px;
+    
+    background-color: black;
+}
+
+img{
+    align-items: center;
+    margin-left: 320px;
+    
+}
+
+h2{
+    margin-left: 220px;
+    margin-top: 10px;
+    padding: 20px 0px;
+    color: honeydew;
+    background-color: black;
+}
+
+h3{
+    position: relative;
+}
+nav{
+    position: fixed;
+    padding: 20px;
+    width: 20px;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+main{
+    
+    margin-left: 220px;
+}
+
+footer{
+    border-top: 2px solid grey;
+    padding: 20px 0px;
+    margin-top: 20px;
+    margin-left: 220px;
+}
+
+
+
