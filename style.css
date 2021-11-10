@@ -1,0 +1,40 @@
+header{
+    margin-left: 400px;
+    align-content: center;
+    
+}
+
+.container{
+    background-color: blanchedalmond;
+    width: auto;
+    height: 500px
+
+.box{
+    border: 1px solid black;
+    width: auto;
+    height: 200px;
+    margin-right: 100px;
+    margin-top: 20px;
+    padding: 15px;
+    float: left
+}
+
+h2{
+    margin-left: 220px;
+    float: right;
+}
+
+p{
+    margin-left: 220px;
+    float: right;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+
+
+
+
